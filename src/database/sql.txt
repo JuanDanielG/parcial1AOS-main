@@ -1,8 +1,8 @@
 CREATE TABLE usuarios (
-    id SERIAL PRIMARY KEY,   
-    username VARCHAR(255) NOT NULL UNIQUE, 
-    password VARCHAR(255) NOT NULL,      
-    doc VARCHAR(50) NOT NULL UNIQUE      
+    id SERIAL PRIMARY KEY,
+    username VARCHAR(255) NOT NULL UNIQUE,
+    password VARCHAR(255) NOT NULL,   
+    doc VARCHAR(50) NOT NULL UNIQUE
 );
 
 CREATE TABLE MODELO(
@@ -50,7 +50,7 @@ VALUES
 ('CALIFORNIA T','2024'),
 ('BRONCO','2024'),
 ('G70','2024')
-
+;
 
 INSERT INTO MOTOR
 (DESCRIPCION, CC)
@@ -77,6 +77,5 @@ VALUES
 ('Lamborghini','1800','Lamborghini', 1,2,2),
 ('Volkswagen','1993','Volkswagen', 2,2,2),
 ('Bugatti','1993','Bugatti', 3,4,3),
-('Ford','2000','Ford', 1,5,2),
-('INFINITI','1700','INFINITI', 3,6,3)
+('Ford','2000','Ford', 1,5,2)
 ;
