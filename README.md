@@ -1,4 +1,4 @@
-# API BACKEND, PARCIAL 1 ARQUITECTURA ORIENTADA A SERVICIO
+# API BACKEND, PARCIAL 1 ARQUITECTURA ORIENTADA A SERVICIOS
 
 _Repositorio de entrega primer parcial Arquitectura orientada a servicio correspondiente a una API backend hecha con express js donde se pueda realizar acciones de un CRUD, Login, con sus validaciones correspondientes_
 
