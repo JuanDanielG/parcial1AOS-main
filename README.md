@@ -5,7 +5,7 @@ _Repositorio de entrega primer parcial Arquitectura orientada a servicio corresp
 ## Autores ✒️
 
 * **Juan Daniel Galeano** - *192016*
-* **Jhonatan Quiroga** - *191957*
+* **Jhonatan David Quiroga Perez** - *191957*
 
 ## Construido con:
 
