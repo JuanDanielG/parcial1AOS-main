@@ -129,7 +129,7 @@ http://localhost:8000/api/carro/[id]
 http://localhost:8000/api/carro/1
 ```
 
-*  get: getCarUniModel  -  Muestra el producto haciendo busqueda por el id
+*  get: getCarUniModel  -  Muestra el carro haciendo busqueda por el id
 
 _ruta_
 ```
